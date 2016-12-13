@@ -1,0 +1,8 @@
+node_modules/
+yarn.lock
+
+*.unity3d
+*.unity3d.lz4
+*.obj
+*.png
+*_bone.json
