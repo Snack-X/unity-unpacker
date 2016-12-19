@@ -1,6 +1,6 @@
 {
   "name": "unity-unpacker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Highly Experimental Unity Unpacker",
   "main": "index.js",
   "repository": "https://github.com/Snack-X/unity-unpacker",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "jimp": "^0.2.27",
-    "unity-parser": "^1.1.0",
+    "unity-parser": "^1.1.1",
     "yargs": "^6.5.0"
   },
   "bin": {
