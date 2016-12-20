@@ -1,6 +1,6 @@
 # Unity Unpacker
 
-Highly experimental Unity unpacker in Node.js.
+Highly experimental Unity unpacker in Node.js. Powering [deresute.info](https://deresute.info).
 
 This is not an universal unity unpacker, but designed for [some specific game](http://cinderella.idolmaster.jp/sl-stage/). If you are going to unpack *other game*'s resource files and *other game* is using Unity `5.1.2f`, it may work. Otherwise, it might not work.
 
